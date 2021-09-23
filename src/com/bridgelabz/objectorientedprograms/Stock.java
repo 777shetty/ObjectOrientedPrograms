@@ -19,7 +19,7 @@ public class Stock {
 	public int getNumberOfShare() {
 		return numberOfShare;
 	}
-	public void seNumberOfShare(int numberOfShare) {
+	public void setNumberOfShare(int numberOfShare) {
 		this.numberOfShare = numberOfShare;
 	}
 
